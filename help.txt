@@ -1,0 +1,6 @@
+windows sdk version: 10.0 (latest)
+platform toolset: v142
+c++ language standard: iso C++17 Standard (/std:c++17)
+c language standard: default (legacy msvc)
+
+release/x86
